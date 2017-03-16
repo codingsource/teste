@@ -2,10 +2,12 @@ Nome: Peter
 
 Profissão: Desenvolvedor
 
+Jogo: CsGO
+
 primeiro commit
 
 Segundo commit
 
 Terceiro commit
 
-_______________________________ GIT __________________________________
+*****************_______________________________ GIT __________________________________****************** 
