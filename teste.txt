@@ -1,5 +1,7 @@
 Nome: Peter
 
+Profissão: Desenvolvedor
+
 primeiro commit
 
 Segundo commit
